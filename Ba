@@ -1,4 +1,4 @@
-Mai mior do bão
+Abe's Balanced FC2 Univ
 SEC,East,West,,,,,,,,,,,
 ACC,Atlantic,Coastal,,,,,,,,,,,
 Big Ten,East,West,,,,,,,,,,,
@@ -96,7 +96,6 @@ TEAM,AAC,East,Buffalo,BUFF,70,BOIS,,,,,,,
 TEAM,AAC,East,Army,ARMY,75,NAVY,,,,,,,
 TEAM,AAC,East,New York State,NYST,65,TULN,,,,,,,
 TEAM,AAC,East,Marshall,MARS,66,TLSA,,,,,,,
-# Coaches,,,,,,,,,
 # Coach format:,Team,Name,Age,Offense,Defense,Recruiting,Training,Off Scheme,Def Scheme,,,,
 COACH,ALA,Nick Saban,40,95,95,95,95,Balanced,Balanced,,,,,,,
 COACH,ARIZ,Kevin Sumlin,40,70,70,70,70,Pro Style,Conservative,,,,,,,
